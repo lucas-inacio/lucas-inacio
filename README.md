@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Lucas 👋
+
+I work as an electronics technician and I'm also an electrical engineering student :books:. Sometimes I play with microcontroller and web programming.
 
 <!--
 **lucas-inacio/lucas-inacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
